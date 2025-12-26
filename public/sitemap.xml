@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://ayonix.com</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ayonix.com/og-image.png</image:loc>
+      <image:title>Ayonix AI - Enterprise AI Agent Platform</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Products -->
+  <url>
+    <loc>https://ayonix.com/products</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/products/atlas-ai-agent</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ayonix.com/images/atlas-ai-agent.jpg</image:loc>
+      <image:title>ATLAS AI Agent - Enterprise AI Assistant</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/products/atlas-code-agent</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ayonix.com/images/atlas-code-agent.jpg</image:loc>
+      <image:title>ATLAS Code-Agent - AI Coding Assistant</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/products/atlas-smartglass</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ayonix.com/images/atlas-smartglass.jpg</image:loc>
+      <image:title>ATLAS Smartglass - AR AI Assistant</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/products/video-analytics</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ayonix.com/images/video-analytics-dashboard.jpg</image:loc>
+      <image:title>Video Analytics - AI-Powered Surveillance</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/products/atlas-box</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ayonix.com/images/atlas-box-front.png</image:loc>
+      <image:title>ATLAS BOX - Edge AI Computing Device</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Use Cases -->
+  <url>
+    <loc>https://ayonix.com/use-cases</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/use-cases/company-rag</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/use-cases/employment-training</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/use-cases/automated-posts</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/use-cases/offline-chatbot</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/use-cases/code-assistant</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/use-cases/face-recognition</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Solutions -->
+  <url>
+    <loc>https://ayonix.com/solutions</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/solutions/healthcare</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/solutions/corporate</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/solutions/finance</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/solutions/government</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Company -->
+  <url>
+    <loc>https://ayonix.com/company</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/news</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayonix.com/demos</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact -->
+  <url>
+    <loc>https://ayonix.com/inquiry</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+</urlset>
