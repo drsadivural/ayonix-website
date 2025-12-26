@@ -1,0 +1,192 @@
+[
+  {
+    "product_name": "ATLAS AI Agent",
+    "description": "ATLAS AI Agent is a powerful, autonomous AI agent that goes beyond simple chatbots, acting as a digital colleague to perform complex tasks from idea level to delivery with minimal human oversight. It handles research, data analysis, content creation, coding, and automation using multiple AI models and its own persistent memory for complex workflows like trip planning or market research.",
+    "key_features": [
+      "Autonomous Task Execution",
+      "Multi-Model AI Integration",
+      "Persistent Memory System",
+      "Complex Workflow Management",
+      "Research & Data Analysis",
+      "Content Creation Engine",
+      "Intelligent Code Generation",
+      "Process Automation",
+      "Context-Aware Decision Making",
+      "Cross-Domain Reasoning",
+      "Adaptive Learning"
+    ],
+    "use_cases": [
+      "Market research and competitive analysis",
+      "Trip planning and itinerary optimization",
+      "Financial analysis and forecasting",
+      "Content strategy and creation",
+      "Project management automation",
+      "Knowledge synthesis and documentation",
+      "Multi-step problem solving",
+      "Data-driven decision support"
+    ],
+    "industries_served": [
+      "Financial Services",
+      "Manufacturing",
+      "Healthcare",
+      "Retail",
+      "Education",
+      "Professional Services",
+      "Technology",
+      "Government"
+    ],
+    "capabilities": "ATLAS AI Agent combines advanced reasoning, persistent memory, and multi-model orchestration to handle end-to-end workflows. It autonomously breaks down complex tasks, conducts research, analyzes data, generates content, writes code, and delivers comprehensive solutions with minimal human intervention. The system learns from each interaction, building a knowledge base that enhances future performance across diverse domains."
+  },
+  {
+    "product_name": "ATLAS Code-Agent",
+    "description": "ATLAS Code-Agent is an advanced AI-powered coding assistant that transforms the software development lifecycle. It provides intelligent code generation, real-time debugging, automated testing, code review, and refactoring capabilities across multiple programming languages and frameworks.",
+    "key_features": [
+      "Intelligent Code Generation",
+      "Real-time Code Completion",
+      "Multi-Language Support",
+      "Automated Bug Detection",
+      "Code Quality Analysis",
+      "Smart Refactoring",
+      "Test Case Generation",
+      "Documentation Automation",
+      "Architecture Recommendations",
+      "Security Vulnerability Scanning",
+      "Performance Optimization"
+    ],
+    "use_cases": [
+      "Full-stack application development",
+      "Legacy code modernization",
+      "API design and implementation",
+      "Database query optimization",
+      "Microservices architecture",
+      "Code review automation",
+      "Technical debt reduction",
+      "Development workflow acceleration"
+    ],
+    "industries_served": [
+      "Software Development",
+      "Technology Startups",
+      "Enterprise IT",
+      "Gaming Industry",
+      "Financial Technology",
+      "E-commerce",
+      "SaaS Companies",
+      "Research & Development"
+    ],
+    "capabilities": "ATLAS Code-Agent leverages advanced language models trained on billions of lines of code to provide context-aware coding assistance. It understands project architecture, coding standards, and best practices to generate production-ready code, identify potential issues, suggest optimizations, and automate repetitive development tasks. The agent supports 40+ programming languages and integrates seamlessly with popular IDEs and development tools."
+  },
+  {
+    "product_name": "ATLAS Smartglass Agent",
+    "description": "ATLAS Smartglass Agent represents the future of hands-free computing, combining AI-powered augmented reality with wearable technology. These intelligent smart glasses provide real-time information overlay, voice-controlled AI assistance, hands-free capture, and immersive AR experiences for both personal and professional use.",
+    "key_features": [
+      "12MP Ultrawide Camera (3K Video)",
+      "Real-time AI Visual Recognition",
+      "Voice-Activated AI Assistant",
+      "Live Translation (Multi-Language)",
+      "In-Lens AR Display",
+      "Open-Ear Premium Audio",
+      "Neural Gesture Control",
+      "Hands-Free Video Calling",
+      "Live Streaming Integration",
+      "Turn-by-Turn Navigation",
+      "Extended Battery Life (8+ hours)"
+    ],
+    "use_cases": [
+      "Field service and maintenance",
+      "Healthcare consultations",
+      "Manufacturing quality control",
+      "Warehouse logistics",
+      "Remote expert assistance",
+      "Educational training",
+      "Travel and tourism",
+      "Accessibility support"
+    ],
+    "industries_served": [
+      "Healthcare",
+      "Manufacturing",
+      "Logistics & Warehousing",
+      "Field Services",
+      "Education & Training",
+      "Retail",
+      "Tourism & Hospitality",
+      "Emergency Services"
+    ],
+    "capabilities": "ATLAS Smartglass Agent seamlessly blends the physical and digital worlds through advanced AR technology. The system uses computer vision and AI to identify objects, translate text, provide contextual information, and enable hands-free communication. With high-quality camera capture, immersive audio, and intuitive gesture controls via neural wristband, users can access information, capture moments, and collaborate remotely without interrupting their workflow. The glasses support prescription lenses and offer up to 8 hours of continuous use."
+  },
+  {
+    "product_name": "AI Video Analytics",
+    "description": "ATLAS AI Video Analytics is a comprehensive computer vision platform that provides real-time video analysis, face recognition, multimodal biometric identification, and advanced object detection. Powered by YOLO object detection and deep learning models, it delivers accurate, fast, and scalable video intelligence for security, safety, and operational efficiency.",
+    "key_features": [
+      "Real-Time Face Detection & Recognition",
+      "Iris Recognition & Matching",
+      "Fingerprint Biometric Integration",
+      "Facial Expression Analysis",
+      "Multi-Person Face Tracking",
+      "YOLO Object Detection (Real-time)",
+      "Multi-Scale Object Recognition",
+      "Crowd Analytics & Counting",
+      "Anomaly Detection",
+      "License Plate Recognition",
+      "Behavioral Pattern Analysis"
+    ],
+    "use_cases": [
+      "Access control and security",
+      "Surveillance and threat detection",
+      "Retail customer analytics",
+      "Smart city monitoring",
+      "Airport and border security",
+      "Healthcare patient monitoring",
+      "Traffic management",
+      "Event security management"
+    ],
+    "industries_served": [
+      "Security & Surveillance",
+      "Retail & Commerce",
+      "Transportation",
+      "Healthcare",
+      "Government & Public Safety",
+      "Banking & Finance",
+      "Education",
+      "Smart Cities"
+    ],
+    "capabilities": "ATLAS AI Video Analytics leverages state-of-the-art deep learning models to process video streams at 155+ FPS with industry-leading accuracy. The platform supports multimodal biometric identification (face, iris, fingerprint), enabling secure authentication across multiple touchpoints. YOLO-powered object detection provides real-time identification of objects, people, vehicles, and anomalies with 95%+ accuracy. Advanced features include facial expression recognition, behavior analysis, crowd counting, and predictive threat detection. The system scales from single cameras to city-wide networks with centralized management."
+  },
+  {
+    "product_name": "ATLAS BOX",
+    "description": "ATLAS BOX is a compact, powerful edge computing device designed for AI-driven applications, video analytics, and high-quality video recording. This independent edge device brings AI processing directly to the source, enabling real-time decision-making without cloud dependency, perfect for remote locations, security installations, and IoT deployments.",
+    "key_features": [
+      "Integrated AI Processing Unit",
+      "4K Video Recording & Streaming",
+      "Multi-Camera Support (8 channels)",
+      "On-Device AI Model Execution",
+      "Local Storage (2TB+ capacity)",
+      "Edge Computing Optimization",
+      "Low-Latency Processing",
+      "Industrial-Grade Durability",
+      "Offline Operation Mode",
+      "Remote Management Interface",
+      "Energy-Efficient Design"
+    ],
+    "use_cases": [
+      "Remote security monitoring",
+      "Industrial automation",
+      "Smart building management",
+      "Agricultural monitoring",
+      "Traffic surveillance",
+      "Retail analytics",
+      "Environmental monitoring",
+      "Construction site security"
+    ],
+    "industries_served": [
+      "Security & Surveillance",
+      "Manufacturing",
+      "Agriculture",
+      "Construction",
+      "Retail",
+      "Smart Cities",
+      "Transportation",
+      "Energy & Utilities"
+    ],
+    "capabilities": "ATLAS BOX combines powerful edge AI processing with professional-grade video recording capabilities in a ruggedized, compact form factor. The device runs advanced AI models locally for real-time video analytics, object detection, and decision-making without requiring constant cloud connectivity. It supports multiple camera inputs, 4K recording, and intelligent video compression to maximize storage efficiency. With industrial-grade components rated for extreme temperatures (-20°C to 60°C), ATLAS BOX operates reliably in challenging environments. The system includes remote management, OTA updates, and seamless integration with cloud platforms for hybrid deployments."
+  }
+]
